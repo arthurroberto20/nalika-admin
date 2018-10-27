@@ -8,7 +8,6 @@
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" media="screen" />
  
     <!-- admin custom CSS -->
-    <link href="<?php echo $home_url . "libs/css/customer.css" ?>" rel="stylesheet" />
     <title></title>
 </head>
 <body>
