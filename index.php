@@ -181,8 +181,8 @@ else{
     <div class="left-sidebar-pro">
         <nav id="sidebar" class="">
             <div class="sidebar-header">
-                <a href="index.php"><img class="main-logo" src="img/logo/logo.png" alt="" /></a>
-                <strong><img src="img/logo/logosn.png" alt="" /></strong>
+                <a href="index.php">
+               <img class="main-logo" alt="" /></a>
             </div>
             <div class="nalika-profile">
                 <div class="profile-dtl">
