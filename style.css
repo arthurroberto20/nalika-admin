@@ -94,6 +94,8 @@ p {margin:0 0 15px;}
 h1, h2, h3, h4, h5, h6 {
   margin: 0 0 10px;
   font-weight:700;
+
+  
 }
 a {transition: all 0.3s ease 0s;text-decoration:none;}
 a:hover{
@@ -167,7 +169,7 @@ body {}
 	position:fixed;
     transition: all 0.3s;
 	z-index:999;
-	height:100%;
+	height:70%;
 }
 .mini-navbar .all-content-wrapper {
     margin-left: 80px;
@@ -210,14 +212,14 @@ body {}
     padding: 20px;
 	position: relative;
     z-index: 99999;
-    background: #1b2a47;
+     background: #1b2a47; 
 }
 .profile-dtl {
     text-align: center;
 }
 .profile-dtl img {
-    width: 75px;
-    height: 75px;
+    width: 95px;
+    height: 95px;
     border-radius: 50%;
     border: 2px solid #152036;
 }
@@ -873,9 +875,9 @@ ul.setting-panel-list li{
 }
 .breadcome-list {
     padding:20px;
-	background:#1b2a47;
-	margin:30px 0px;
-}
+    background: #8bca47;
+        margin:30px 0px;
+    border-radius: 5px 5px 5px 38px;}
 .bemvindo{
 	color: #FFF;
 }
@@ -952,11 +954,13 @@ ul.breadcome-menu li a:hover{
     color: #fff;
     padding: 15px;
     position: relative;
-    border-radius: 5px;
+    border-radius: 5px 5px 5px 25px;
     border-bottom: 1px solid #fff;
     border-top: 1px solid #fff;
     display: block;
-    border-left: 1px solid #fff;
+    border-left: 1px solid #fff;   
+    border-right: 1px solid #fff;
+
 }
 .breadcomb-ctn h2{
 	font-size:20px;
@@ -1001,6 +1005,7 @@ ul.breadcome-menu li a:hover{
     height: 5px;
     margin-top: 5px;
     margin-bottom: 0px;
+   
 }
 .bg-green {
     background: #24caa1;
@@ -1012,15 +1017,21 @@ ul.breadcome-menu li a:hover{
     background: #2eb7f3;
 }
 .bg-purple {
-    background: #805bbe;
+   /* background: #805bbe; */
+    background: #efa445; 
 }
 .analysis-progrebar-ctn{
 	padding:20px;
-	background:#1b2a47;
+	background: #7b71c5;
+    border-radius:5px;
+
 }
 .product-sales-chart, .analytics-info-cs, .tranffic-als-inner, .analytics-rounded, .single-new-trend, .personal-info-wrap, .author-widgets-single, .calender-inner, .product-status-wrap, .review-tab-pro-inner, .income-dashone-total, .analytics-nalika-wrap, .analytics-sparkle-line, .analysis-progrebar, .sparkline8-list, .sparkline9-list, .sparkline7-list, .sparkline10-list, .sparkline12-list, .sparkline13-list, .sparkline14-list, .sparkline13-list, .sparkline11-list, .x-editable-list, .code-editor-single, .blog-details-inner, .charts-single-pro, .about-sparkline, .sparkline-list, .button-ad-wrap, .tab-content-details, .sparkline16-list, .sparkline15-list, .tinymce-single{
 	padding:20px;
-	background:#1b2a47;
+    /*background:#1b2a47;*/
+    background: #34314c;
+    border-radius: 5px;
+}
 }
 .graph-rp{
 	text-align:right;
